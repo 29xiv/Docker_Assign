@@ -1,0 +1,38 @@
+body {
+    background-color: #ffffff;
+    font-family: sans-serif;
+  }
+  
+  nav {
+    background-color: #000000;
+    color: #ffffff;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  a {
+    color: #ffffff;
+    text-decoration: none;
+    transition: .2s ease-in-out all;
+  }
+  
+  a:hover {
+    scale: 1.5;
+  }
+  
+  #about {
+    padding: 20px;
+  }
+  
+  #experience {
+    padding: 20px;
+  }
+  
+  #education {
+    padding: 20px;
+  }
+  
+  #skills {
+    padding: 20px;
+  }
+  
